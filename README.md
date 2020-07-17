@@ -56,26 +56,26 @@ Away from keyboard:
 ### Awards, Achievements & Honors
 #### Personal 
 **2018**
-- [Certificate of Appreciation] - (merojob - AIM Higher)[https://merojob.com/]
-- 🥈 [Runner up - Udaaya Futsal Cup] - (Udaaya Samaj)[https://www.facebook.com/people/Udaaya-Samaj/100015641531412]
+- Certificate of Appreciation - Website Security - (merojob - AIM Higher)[https://merojob.com/]
+- 🥈 [Runner up - Udaaya Futsal Cup](https://www.facebook.com/events/united-futsal-ground/udaaya-futsal-cup-2018/331397714020080/) - (Udaaya Samaj)[https://www.facebook.com/people/Udaaya-Samaj/100015641531412]
 
 **2019**
-- 🥈 [Runner up - Udaaya Futsal Cup] - (Udaaya Samaj)[https://www.facebook.com/people/Udaaya-Samaj/100015641531412]
+- 🥈 [Runner up - Udaaya Futsal Cup](https://www.facebook.com/udaaya.futsal.cup/posts/congratulations-to-the-winner-and-runner-up-team-of-3rd-udaaya-futsal-cup-2019wi/2283801264971635/) - (Udaaya Samaj)[https://www.facebook.com/people/Udaaya-Samaj/100015641531412] [Photoes](https://www.facebook.com/media/set/?set=ms.c.eJxFVNeNBFEI6~_hEDv03dnqweH4RwTYGJSKjFlFlKpU~%3B3UBpd6ZpboCJ6WWk2WW0TYbEBZQnUP0r4e4XEOFfQMsiTJP0MmyaBtsFKF6JIqCSL8PkcDBPj87rQbLAFD14xirdWEl~_JcVxGcs2Prbh0wPQvaU7o6RAbjKKL8NUX0BBzjxeQBollqMHkKpOhnEdMBqRhSGyPqRGfkiJbAKl4LJ6ZELTYUv6w0FVPUjDj63PoiTQ1Ccj~_jKkeJveFONRLBIlKaOpHbnKUb3qVI~_sp1iaXGCbEppy6GxODGx32QVLsTy2nAeMtkd8y67FoRCZ3th0xip7VRe9gNM0PSdTxYx1Bw5eJ1NAwl12NEpq2Z4earKrFEjYY~_3bPj~_~%3BvAzCXpq36XFxszEM0wV8VHe9KR4~_Abkpb6rOId6UGD3IoUfuEdr5lPbE8juxNW7AuLwlgpJX8aY4Dmi5OLj0Qi9Apx5bhuNMY8Z6Q2Qf~_t~%3BtC8~%3BmhCBh~_wuwwLiZCwwO0hwH~_Y1Voi0hIN0Twxq4RtO~_3b7Tn2cQB0x0kcKWYrVsseyYplrYbdb~_sU~_xoa929H1eX9T3HXJuTmBtj82AyMExAToc1m8v0YKnRGuHOsU8bUoML3g39zXVPQ~_GT712LBz0xHl3i4diOkiVD6nFWDvwtpTHMHz0qXO~_FPN3c7k3d3vhHujVh4OXS4MLee1TOtXNfOh~%3BimnuvSQUG2AWByyclsuNfYt7P6jBVmZz5v0PxStjUA~-~-.bps.a.3000408533310901&type=1&__tn__=HH-R)
 
 **2020**
-- 🥇 :trophy: [Winner - Udaaya Futsal Cup] - (Udaaya Samaj)[https://www.facebook.com/people/Udaaya-Samaj/100015641531412]
+- 🥇 :trophy: [Winner - Udaaya Futsal Cup](https://www.facebook.com/photo.php?fbid=2898863276838041&set=a.2898862840171418&type=3&theater) - (Udaaya Samaj)[https://www.facebook.com/people/Udaaya-Samaj/100015641531412]
 
 #### Professional 
 **2018*
-- 🥇 :trophy: [Winner of Tech Titans Futsal Tournament] - [CloudFactory]
+- 🥇 :trophy: [Winner - Tech Titans Futsal Tournament](https://techlekh.com/tech-titans-futsal-completed-cloud-factory-emerges-victorious/) - [CloudFactory](https://cloudfactory.com)
 
 **2019*
-- [Simplicity Award - We Make the Complex Simple] - [CloudFactory](https://cloudfactory.com)
-- 🥈 [Runner-up - KBBL KAF Corporate Futsal Tournament] - [CloudFactory]
-- 🥈 [Runner-up - YL-Cup Corporate Men's Corporate Futsal Tournament] & Best Player - [CloudFactory]
+- Cultural Award - Simplicity - We Make the Complex Simple - [CloudFactory](https://cloudfactory.com)
+- 🥈 [Runner-up - KBBL KAF Corporate Futsal Tournament](https://glocalkhabar.com/kusom-organizes-kusom-annual-festival-kaf-2018/) - [CloudFactory]
+- 🥈 [Runner-up - YL-Cup Corporate Men's Corporate Futsal Tournament](https://www.facebook.com/ylnepal/photos/4-groups-of-yl-cup-corporate-mens-futsal/2502430073163769/) & Won Best Player - [CloudFactory]
 
 **2020**
-- 🥇 :trophy: [Winner - Inhouse Futsal Tournament] - [CloudFactory](https://cloudfactory.com)
+- 🥇 :trophy: Winner - CloudFactory Inhouse Futsal Tournament - [CloudFactory](https://cloudfactory.com)
 
 
 ### :house: Where do I live?
