@@ -61,7 +61,7 @@ Kathmandu, Nepal
 
 **2020**
 - [Unofficial NMB LastPass Integration](https://github.com/tuladhar/nmb-lastpass)
-- [Gmail Labels as Tabs](https://github.com/tuladhar/gmail-labels-as-tabs) extension
+- ["Gmail Labels as Tabs" extension for Google Chrome](https://github.com/tuladhar/gmail-labels-as-tabs)
 
 ## 🏅 Awards, Achievements & Honors
 ### Personal 
