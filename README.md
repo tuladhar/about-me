@@ -19,10 +19,8 @@ Kathmandu, Nepal
 ## :bicyclist: Hobbies
 **Away from keyboard**
 - Soccer fanatic
-- Amature Cyclist
-- Adventure and thrill seeker
-- Watching historical and biographical documentaries
-- Amature Guitarist (wanna be Joe Satriani :guitar:)
+- Amature Cyclist & Guitarist
+- Go on an adventures and explore new places
 
 **!Away from keyboard**
 - Hacking on projects on free-time
