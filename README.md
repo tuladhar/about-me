@@ -60,7 +60,7 @@ Kathmandu, Nepal
 - [Python for Systems Administrator - Part I](https://github.com/tuladhar/Python-for-SysAdmin-Part-I)
 
 **2020**
-- [Unofficial NMB LastPass Integration](https://github.com/tuladhar/nmb-lastpass)
+- [NMB Bank LastPass Integration](https://github.com/tuladhar/nmb-lastpass)
 - ["Gmail Labels as Tabs" extension for Google Chrome](https://github.com/tuladhar/gmail-labels-as-tabs)
 
 ## 🏅 Awards, Achievements & Honors
