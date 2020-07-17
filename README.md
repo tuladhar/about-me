@@ -1,5 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-
 # Namaste
 
 ### :pray: Thanks for coming by to visit my website.
@@ -19,8 +17,10 @@ Kathmandu, Nepal
 ## :bicyclist: Hobbies
 **Away from keyboard**
 - Soccer fanatic
-- Amature Cyclist & Guitarist
+- Amature Cyclist
 - Go on an adventures and explore new places
+- Amature Guitarist (wanna be Joe Satriani :guitar:)
+
 
 **!Away from keyboard**
 - Hacking on projects on free-time
