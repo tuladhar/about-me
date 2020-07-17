@@ -3,6 +3,6 @@ theme: jekyll-theme-minimal
 title: Puru's Personal Website
 description: Thank you for visiting my website.
 
-logo: 'images/avatar.png'
+logo: avatar.png
 show_downloads: false
 # google_analytics: [Your Google Analytics tracking ID]
