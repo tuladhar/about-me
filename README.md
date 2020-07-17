@@ -1,12 +1,18 @@
 # Namaste :pray:
 
-###### Thanks for coming by to visit my personal website.
+##### Thanks for coming by to visit my personal website.
 
-## :bow: Introduction
+## :bow: About me
 
 My name is Puru. I'm your typical computer geek, who loves technology enough to hate it but still loves it :no_mouth:. I love to work on interesting and challenging stuffs to have a meaningful impact. To rewind my life. Actually, I wanted to become a professional football player but that didn't pan out well, so here I am working with softwares.
 
 > I've failed over and over and over again in my life and that is why I succeed. - Michael Jordan
+
+## :house: Where do I live?
+
+Kathmandu, Nepal
+
+![Beautiful city of Kathmandu at night](images/kathmandu.jpg)
 
 ## :bicyclist: Hobbies
 **Away from keyboard**
@@ -79,12 +85,6 @@ My name is Puru. I'm your typical computer geek, who loves technology enough to 
 **2020**
 - 🥇 :trophy: Winner - CloudFactory Inhouse Futsal Tournament - [CloudFactory](https://cloudfactory.com)
 
-
-## :house: Where do I live?
-
-Kathmandu, Nepal
-
-![Beautiful city of Kathmandu at night](images/kathmandu.jpg)
 
 ## :office: Where do I work?
 [CloudFactory](https://cloudfactory.com)
