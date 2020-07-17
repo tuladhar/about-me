@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 # Namaste :pray:
 
 ### Thanks for coming by to visit my website.
