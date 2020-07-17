@@ -5,7 +5,7 @@ description: Thank you for visiting my website.
 
 logo: avatar.png
 show_downloads: false
-google_analytics: [Your Google Analytics tracking ID]
+google_analytics: UA-172929172-1
 
 plugins:
   - jemoji
