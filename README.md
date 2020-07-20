@@ -88,7 +88,7 @@ Kathmandu, Nepal
 
 
 ## :office: Where do I work?
-[CloudFactory](https://cloudfactory.com) as DevOps Engineer
+[CloudFactory](https://cloudfactory.com) as Senior Software Engineer (DevOps)
 
 
 ## :handshake: Get In Touch
