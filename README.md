@@ -92,4 +92,4 @@ Kathmandu, Nepal
 
 
 ## :handshake: Get In Touch
-Drop me an email [puru@hey.com](mailto:puru@hey.com) / [ptuladhar3@gmail.com](mailto:ptuladhar3@gmail.com) OR create an issue in this github repo! :smile:
+Drop me an email [ptuladhar3@gmail.com](mailto:ptuladhar3@gmail.com) OR create an issue in this github repo! :smile:
