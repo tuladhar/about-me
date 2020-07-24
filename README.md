@@ -4,7 +4,7 @@
 
 ## :man: About me
 
-My name is Puru. I'm your typical computer geek, who loves technology enough to hate it but still loves it :no_mouth:. I love to work on interesting and challenging stuffs to have a meaningful impact. To rewind my life. Actually, I wanted to become a professional football player but that didn't pan out well, so here I am working with softwares.
+My name is Puru. I'm your typical computer geek, who loves technology enough to hate it but still loves it :no_mouth:. Professional, I'm your DevOps guys, who is passionate about automation, scalability, high-availablity, simple solution to hard problems because afterall life should be simple. To rewind my career. Actually, I wanted to become a professional football player but that didn't pan out well, so here I am working with softwares and technology. I do not plan on doing this forever, just doing my best while I'm at it!
 
 > I've failed over and over and over again in my life and that is why I succeed. - Michael Jordan
 
