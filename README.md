@@ -2,10 +2,6 @@
 
 ### :pray: Thanks for taking time to visit my website.
 
-## :man: About myself
-
-My name is Puru. I'm your typical computer geek, who loves technology enough to hate it but still loves it :no_mouth:. Professional, I'm your sysadmin guys, who is passionate about automation, cloud, productivity, systems scalability & high-availablity, always looking for simple solution to hard problems (it's not that simple) because afterall life should be simple. To rewind my career. Actually, I wanted to become a professional football player but that didn't pan out well, so here I am working with software and technology. I do not plan on doing this forever, just doing my best while I'm at it.
-
 > I've failed over and over and over again in my life and that is why I succeed. - Michael Jordan
 
 ## :house: Where do I live?
