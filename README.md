@@ -1,6 +1,6 @@
 # Namaste
 
-### :pray: Thanks for taking time to visit my website.
+### :pray: Thank you for taking time to visit my website.
 
 ## :house: Where do I live?
 
@@ -8,7 +8,7 @@ Kathmandu, Nepal
 
 ![Beautiful city of Kathmandu at night](images/kathmandu.jpg)
 
-## :bicyclist: Hobbies
+## :bicyclist: My Hobbies
 **Away from keyboard**
 - Soccer fanatic
 - Amature Cyclist
@@ -18,7 +18,7 @@ Kathmandu, Nepal
 
 **!Away from keyboard**
 - Hacking on projects on free-time
-- Teaching web programming to my 6 years and 13 years old niece (__trying!__ :man_facepalming:)
+- Teaching programming to my 6 years and 13 years old niece (__trying!__ :man_facepalming:)
 
 ## :pencil2: Blogs I've Written
 
@@ -32,12 +32,17 @@ Kathmandu, Nepal
 - [Deploy Scalable and Highly Available Web App (Omaha Server) on AWS Cloud](https://medium.com/@ptuladhar3/deploy-scalable-and-highly-available-web-app-omaha-server-on-aws-cloud-69e26df7c85b)
 - [Email Productivity: Organize your Gmail Labels as Tabs](https://medium.com/@ptuladhar3/email-productivity-organize-your-gmail-labels-as-tabs-3c29acc7b350)
 
+## :microphone: Talks I've Given
+
+**2019**
+- [DevOps Automation: Infrastructure as Code](https://drive.google.com/file/d/1Kd_Ncx1y6VCgl9C_f4baAacyKz96b5ux/view), DevOps Meet-up Kathmandu
+
 ## :computer: Open-Source Projects & Contributions
 **2013**
 - First open-source project [adns-ruby](https://github.com/tuladhar/adns-ruby)
 
 **2015**
-- First open-source contribution [Rundeck 2.5.0](https://docs.rundeck.com/news/2015/04/16/rundeck-2.5.0.html) [https://github.com/rundeck/rundeck/commits?author=tuladhar](https://github.com/rundeck/rundeck)
+- First open-source contribution [Rundeck 2.5.0](https://docs.rundeck.com/news/2015/04/16/rundeck-2.5.0.html)
 
 **2016**
 - [gistup - CLI tool to upload file to GIST using Github API](https://github.com/tuladhar/gistup)
@@ -94,6 +99,15 @@ Kathmandu, Nepal
 **2018-Present**
 - Software Engineer (DevOps) - [CloudFactory](https://cloudfactory.com)
 
+**2014 - 2016**
+- Systems Administrator (Remote) - [Appstractor](https://www.trustedproxies.com)
+
+**2013 - 2014**
+- DevOps Engineer - [Leapfrog Technology](lftechnology.com)
+
+**2013**
+- Linux Systems Administrator - [Nepal Link Networks](https://www.nepallink.net/)
+
 
 ## :handshake: Get In Touch
-Drop me an email [ptuladhar3@gmail.com](mailto:ptuladhar3@gmail.com) OR create an issue in this github repo! :smile:
+Drop me an email [ptuladhar3@gmail.com](mailto:ptuladhar3@gmail.com)
