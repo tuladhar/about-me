@@ -62,7 +62,7 @@ Kathmandu, Nepal
 - [spamkiller.bash - Spam Killer for cPanel Servers](https://github.com/tuladhar/spamkiller.bash)
 
 **2019**
-- [Python for Systems Administrator - Part I](https://github.com/tuladhar/Python-for-SysAdmin-Part-I)
+- [Python for Systems Administrator](https://github.com/tuladhar/Python-for-SysAdmin-Part-I)
 
 **2020**
 - ["NMB Bank LastPass Integration" extension for Google Chrome](https://github.com/tuladhar/nmb-lastpass)
