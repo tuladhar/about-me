@@ -91,7 +91,7 @@ Kathmandu, Nepal
 - 🥈 [Runner-up - YL-Cup Corporate Men's Corporate Futsal Tournament](https://www.facebook.com/ylnepal/photos/4-groups-of-yl-cup-corporate-mens-futsal/2502430073163769/) & Won Best Player - [CloudFactory](https://cloudfactory.com)
 
 **2020**
-- 🥇 Winner - CloudFactory Inhouse Futsal Tournament - [CloudFactory](https://cloudfactory.com)
+- 🥇 Winner - CloudFactory Futsal Tournament - [CloudFactory](https://cloudfactory.com)
 
 
 ## :office: Where do I work?
