@@ -97,7 +97,7 @@ Kathmandu, Nepal
 ## :office: Where do I work?
 
 **2018-Present**
-- Senior Software Engineer - [CloudFactory](https://cloudfactory.com)
+- Senior Software Engineer (DevOps) - [CloudFactory](https://cloudfactory.com)
 
 **2014 - 2016**
 - Systems Administrator (Remote) - [Appstractor](https://www.trustedproxies.com)
