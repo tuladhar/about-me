@@ -17,8 +17,9 @@ Kathmandu, Nepal
 
 
 **!Away from keyboard**
-- Hacking on projects on free-time
-- Teaching programming to my 6 years and 13 years old niece (__trying!__ :man_facepalming:)
+- Hacking on projects during my free-time
+- Teaching programming & photo/video editing skillz to my 6 years and 13 years old niece (__trying!__ :man_facepalming:)
+  - She told me to promote her [Youtube Channel](https://www.youtube.com/channel/UCCTrCgL_uH2FIm1_oyB1vVw)
 
 ## :pencil2: Blogs I've Written
 
