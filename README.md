@@ -31,6 +31,7 @@ Kathmandu, Nepal
 - [Design Secure & Scalable VPC for Micro-service Architecture](https://medium.com/@ptuladhar3/design-secure-scalable-vpc-for-micro-service-architecture-1b58fbf128f4)
 - [Deploy Scalable and Highly Available Web App (Omaha Server) on AWS Cloud](https://medium.com/@ptuladhar3/deploy-scalable-and-highly-available-web-app-omaha-server-on-aws-cloud-69e26df7c85b)
 - [Email Productivity: Organize your Gmail Labels as Tabs](https://medium.com/@ptuladhar3/email-productivity-organize-your-gmail-labels-as-tabs-3c29acc7b350)
+- [Linux Commands for Developers](https://medium.com/@ptuladhar3/linux-commands-for-developers-d88baba576b4)
 
 ## :microphone: Talks I've Given
 
@@ -67,6 +68,7 @@ Kathmandu, Nepal
 **2020**
 - ["NMB Bank LastPass Integration" extension for Google Chrome](https://github.com/tuladhar/nmb-lastpass)
 - ["Gmail Labels as Tabs" extension for Google Chrome](https://github.com/tuladhar/gmail-labels-as-tabs)
+- [Contribution to Platform.sh CLI project - Github Action CI Workflow](https://github.com/platformsh/platformsh-cli/pull/977)
 
 ## 🏅 Awards, Achievements & Honors
 ### Personal 
