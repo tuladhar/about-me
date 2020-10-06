@@ -71,6 +71,7 @@ Kathmandu, Nepal
 - ["NMB Bank LastPass Integration" extension for Google Chrome](https://github.com/tuladhar/nmb-lastpass)
 - ["Gmail Labels as Tabs" extension for Google Chrome](https://github.com/tuladhar/gmail-labels-as-tabs)
 - [Contribution to Platform.sh CLI project - Github Action CI Workflow](https://github.com/platformsh/platformsh-cli/pull/977)
+- [Cloudflare Radar for Nepal - Twitter bot](https://github.com/tuladhar/cfradarnp)
 
 ## 🏅 Awards, Achievements & Honors
 ### Personal 
