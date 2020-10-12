@@ -34,6 +34,7 @@ Kathmandu, Nepal
 - [Email Productivity: Organize your Gmail Labels as Tabs](https://medium.com/@ptuladhar3/email-productivity-organize-your-gmail-labels-as-tabs-3c29acc7b350)
 - [Linux Commands for Developers](https://medium.com/@ptuladhar3/linux-commands-for-developers-d88baba576b4)
 - [Hacktoberfest 2020: Day 6: My journey as a maintainer](https://medium.com/@ptuladhar3/hacktoberfest-2020-day-6-my-journey-as-a-maintainer-c347367469a7)
+- [Rocket.Chat Desktop: No valid server found at the URL…wait what?!](https://medium.com/@ptuladhar3/rocket-chat-desktop-no-valid-server-found-at-the-url-wait-what-bde80748152a)
 
 ## :microphone: Talks I've Given
 
